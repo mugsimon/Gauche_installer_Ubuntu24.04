@@ -26,6 +26,7 @@ The `run.sh` script manages the installation and uninstallation of Gauche and it
    cd Gauche_installer_Ubuntu24.04
    chmod +x run.sh
    ./run.sh [install|uninstall|-h]
+   ```
 3. **Run Gauche**
    ```bash
    gosh
