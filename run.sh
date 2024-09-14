@@ -36,6 +36,7 @@ scripts=(
     "libmbedtls14.sh"
     "slib.sh"
     "gauche.sh"
+    "rlwrap.sh"
 )
 
 echo "Add persmission..."

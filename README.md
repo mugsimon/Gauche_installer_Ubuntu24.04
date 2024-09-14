@@ -1,6 +1,6 @@
 # Gauche and Dependencies Installer for Ubuntu 24.04
 
-This script installs or uninstalls Gauche and its dependencies using Debian packages from Ubuntu 22.04 (Jammy Jellyfish).
+This script installs or uninstalls Gauche and its dependencies using Debian packages from Ubuntu 22.04 (Jammy Jellyfish). And also install rlwrap and add alias to `.bashrc`.
 
 ## Overview
 
