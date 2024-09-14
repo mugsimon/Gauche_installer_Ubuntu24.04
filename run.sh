@@ -17,8 +17,9 @@ usage() {
 }
 
 MODE="install"
-
-if [ "$1" == "uninstall" ]; then
+if [ "$1" == "install" ]; then
+    MODE="install"
+elif [ "$1" == "uninstall" ]; then
     MODE="uninstall"
 elif [ "$1" == "-h" ]; then
     usage
